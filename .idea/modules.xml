@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aopTest.iml" filepath="$PROJECT_DIR$/.idea/modules/aopTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aopTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aopTest_main.iml" group="aopTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aopTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aopTest_test.iml" group="aopTest" />
+    </modules>
+  </component>
+</project>
